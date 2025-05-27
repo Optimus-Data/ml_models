@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+matplotlib
+sentence-transformers
+fastapi
+uvicorn[standard]
+colorama
+python-dotenv 

@@ -1,0 +1,36 @@
+# =============================================
+# LOGS E ARQUIVOS TEMPORÁRIOS
+# =============================================
+/logs/*
+*.log
+*.tmp
+*.temp
+.DS_Store
+
+# =============================================
+# AMBIENTE VIRTUAL E DEPENDÊNCIAS
+# =============================================
+/venv/
+.env
+.env.local
+.env.*.local
+pyvenv.cfg
+
+# =============================================
+# DADOS E MODELOS (Evitar versionar)
+# =============================================
+/assets/*
+!/assets/sample_data.json 
+/trained_models/*
+*.joblib
+*.pkl
+
+# =============================================
+# ARQUIVOS DE DESENVOLVIMENTO E IDE
+# =============================================
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+*.swp
+*.swo

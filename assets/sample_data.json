@@ -1,0 +1,78 @@
+[
+	{
+	  "text": "Boa tarde, como vai?",
+	  "label": "false"
+	},
+	{
+	  "text": "Qual o salário dos vereadores?",
+	  "label": "true"
+	},
+	{
+	  "text": "Gostaria de saber sobre os projetos de lei em andamento.",
+	  "label": "true"
+	},
+	{
+	  "text": "Essa cidade é um lixo!",
+	  "label": "false"
+	},
+	{
+	  "text": "Meu nome é João e eu moro na Rua das Flores.",
+	  "label": "false"
+	},
+	{
+	  "text": "Onde posso encontrar a ata da última sessão plenária?",
+	  "label": "true"
+	},
+	{
+	  "text": "Você é muito inteligente.",
+	  "label": "false"
+	},
+	{
+	  "text": "Quero reclamar do buraco na minha rua, na Zona Leste.",
+	  "label": "true"
+	},
+	{
+	  "text": "Olá, tudo bem?",
+	  "label": "false"
+	},
+	{
+	  "text": "Informações sobre licitações da Câmara Municipal.",
+	  "label": "true"
+	},
+	{
+	  "text": "Vai se ferrar!",
+	  "label": "false"
+	},
+	{
+	  "text": "Por favor, me ajude com um problema pessoal.",
+	  "label": "false"
+	},
+	{
+	  "text": "Como faço para protocolar um documento?",
+	  "label": "true"
+	},
+	{
+	  "text": "Amo meu cachorro, ele é lindo.",
+	  "label": "false"
+	},
+	{
+	  "text": "Quem é o vereador responsável pela área de saúde?",
+	  "label": "true"
+	},
+	{
+	  "text": "Que dia é hoje?",
+	  "label": "false"
+	},
+	{
+	  "text": "Dados sobre a população de São Paulo.",
+	  "label": "true"
+	},
+	{
+	  "text": "Estou com fome.",
+	  "label": "false"
+	},
+	{
+	  "text": "Poderia me informar sobre os eventos da Câmara?",
+	  "label": "true"
+	}
+]
