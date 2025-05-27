@@ -27,7 +27,7 @@ python logistic_regression.py
 Métricas disponíveis no terminal após o treinamento
 
 
-## 🔄 Requisição e Resposta da API
+## 🔄 Requisição da API
 
 ### 📤 **Requisição (`POST /classify_relevance`)**
 ```json
