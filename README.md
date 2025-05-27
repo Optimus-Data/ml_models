@@ -6,7 +6,18 @@
 Este projeto implementa um classificador de relevância textual (`true`/`false`) usando:  
 - **Sentence Transformers** (`distiluse-base-multilingual-cased-v2`) para geração de embeddings.  
 - **Regressão Logística** (scikit-learn) para classificação.  
-- **FastAPI** para expor um endpoint de inferência.  
+- **FastAPI** para expor um endpoint de inferência.
+
+## 🛠 Stack Tecnológica
+- **Linguagem**: Python 3.10+
+- **Machine Learning**: Scikit-learn + Sentence-Transformers
+- **Modelo de Embeddings**: distiluse-base-multilingual-cased-v2
+- **Classificador**: Regressão Logística (LogisticRegression)
+- **Serialização**: Joblib
+- **API**: FastAPI + Uvicorn
+- **Processamento NLP**: HuggingFace Transformers
+- **Variáveis de Ambiente**: python-dotenv
+- **Monitoramento**: Logs customizados + Colorama
 
 ##  Configuração  
 1. **Variáveis de ambiente**: Crie um arquivo `.env` na raiz com:  
